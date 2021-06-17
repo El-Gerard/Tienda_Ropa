@@ -73,6 +73,7 @@ a.filled-button {
 a.filled-button:hover {
 	background-color: #121212;
 	color: #fff;
+	transform: scale(1.2);
 }
 
 .section-heading {
